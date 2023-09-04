@@ -16,7 +16,7 @@ There are some theoritical questions and code implemenations around Numerical Me
 
 ## Table of Implemenations
 some questions are implemented in python in my homeworks.
-| Sunject | Description |
+| Sunbect | Description |
 | --- | --- |
 | [Euler Method](./Homeworks/5_2_9_Euler_method.ipynb) | Just a simple Euler method! |
 | [Runge-Kutta-Verner Method](./Homeworks/5_5_7_Runge-Kutta-Verner_method.ipynb) | an algorithm similar to Runge-Kutta-Fehlberg Algorthm |
