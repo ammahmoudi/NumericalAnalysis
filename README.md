@@ -25,10 +25,10 @@ some questions are implemented in python in my homeworks.
 | [3-step Adams–Moulton Method](./Homeworks/5_6_13_3-step_Adams-Moulton_functional_itartion_vs_fix_point.ipynb) |Adams–Moulton Method ( with Adams-Bashforth Corrector Support ) with different step size |
 | [Adams–Bashforth Method with Iterative Correctors](./Homeworks/5_6_15_Adams–Bashforth_with_Iterative_Correctors.ipynb) |Adams–Bashforth Method with  p Iterative Correctors |
 | [Adams Variable Step size Predictor Corrector](./Homeworks/5_7_8_Adams_Variable_Step_Size_Predictor_Corrector.ipynb) |Adams Variable Step size Predictor Corrector with N step Adams-Bashforth and N-1 step Adams Moulton Method|
-| [Runge-Kutta Method for Systems of Differential Equations](./Homeworks/5_9_2_b_Runge-Kutta_for_Systems_of_Differential_Equations.ipynb) |# Runge-Kutta Method for Systems of Differential Equations
+| [Runge-Kutta Method for Systems of Differential Equations](./Homeworks/5_9_2_b_Runge-Kutta_for_Systems_of_Differential_Equations.ipynb) |Runge-Kutta Method for Systems of Differential Equations
 |
-| [System with stable focus Phase Plane](./Homeworks/System_with_Stable_Focus_Phase_Plane.ipynb) |# A simple checking on a system with stable focus and drawint its phase plane diagram
+| [System with stable focus Phase Plane](./Homeworks/System_with_Stable_Focus_Phase_Plane.ipynb) |A simple checking on a system with stable focus and drawint its phase plane diagram
 |
-| [Lorenz System](./Homeworks/Lorenz) |# investigating the lornez system
+| [Lorenz System](./Homeworks/Lorenz) | investigating the lornez system
 |
 
