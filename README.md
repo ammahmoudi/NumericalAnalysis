@@ -16,6 +16,7 @@ There are some theoritical questions and code implemenations around Numerical Me
 
 ## Table of Implemenations
 some questions are implemented in python in my homeworks.
+
 | Sunbect | Description |
 | --- | --- |
 | [Euler Method](./Homeworks/5_2_9_Euler_method.ipynb) | Just a simple Euler method! |
